@@ -15,7 +15,7 @@ at the beginning of the classification results process it was noted that the dif
 another thing that can be noticed was that the text without stemming brings better results than the text with stemming applied,
 and also that tf-idf was better than CountVectorize.
 
-results: the accuracy of the model is 0.6018042776914805
+results: the final accuracy of LogisticRegression model is 0.6018042776914805
 
 link of the data set used in this repository: https://www.kaggle.com/rmisra/news-category-dataset
 
