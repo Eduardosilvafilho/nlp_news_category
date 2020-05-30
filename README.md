@@ -17,4 +17,6 @@ and also that tf-idf was better than CountVectorize.
 
 results: the accuracy of the model is 0.6018042776914805
 
-limk used in this repository: https://www.kaggle.com/rmisra/news-category-dataset
+link of the data set used in this repository: https://www.kaggle.com/rmisra/news-category-dataset
+
+link of the raw_data that is used in the nootebook: https://raw.githubusercontent.com/dbstern/kaggle-news-category/master/input/News_Category_Dataset_v2.json
