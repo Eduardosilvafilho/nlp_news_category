@@ -16,3 +16,5 @@ another thing that can be noticed was that the text without stemming brings bett
 and also that tf-idf was better than CountVectorize.
 
 results: the accuracy of the model is 0.6018042776914805
+
+limk used in this repository: https://www.kaggle.com/rmisra/news-category-dataset
