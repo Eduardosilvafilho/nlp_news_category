@@ -1,12 +1,12 @@
 # nlp_news_category
 
-objectives: the objective of this repository is to create a nlp bot for when you give the robot the headline of the news and a short description it will return the genre of the news so you can automate the process when you post the news in it genre 
+objectives: the objective of this repository is to create a nlp model for when you give the robot the headline of the news and a short description it will return the genre of the news, so you can automate some process, for example thinking that
 
 algorithms used:
 
-1- LogisticRegression,
+1- [LogisticRegression](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
 
-2- MultinomialNB
+2- [MultinomialNB](sklearn.naive_bayes.MultinomialNB)
 
 experiments:
 
@@ -17,6 +17,9 @@ and also that tf-idf was better than CountVectorize.
 
 results: the final accuracy of LogisticRegression model is 0.6018042776914805
 
-link of the data set used in this repository: https://www.kaggle.com/rmisra/news-category-dataset
 
-link of the raw_data that is used in the nootebook: https://raw.githubusercontent.com/dbstern/kaggle-news-category/master/input/News_Category_Dataset_v2.json
+[data set used in this repository](https://www.kaggle.com/rmisra/news-category-dataset)
+
+
+[raw_data from girhub that i used in the nootebook](https://raw.githubusercontent.com/dbstern/kaggle-news-category/master/input/News_Category_Dataset_v2.json)
+
