@@ -23,3 +23,6 @@ results: the final accuracy of LogisticRegression model is 0.6018042776914805
 
 [raw_data from girhub that i used in the nootebook](https://raw.githubusercontent.com/dbstern/kaggle-news-category/master/input/News_Category_Dataset_v2.json)
 
+obs: the raw data from github is the same of the kaggle dataset
+
+
